@@ -1,0 +1,16 @@
+# Summary
+
+- [Handling simple user iteraction (Angular)](./handle_simple_iteraction.md)
+- [Lifecycle](./lifecycle.md)
+- [When to use lifecycle](./when_to_use_lifecycle.md)
+- [Adding an onInit hook to your component](./adding_on_oninit.md)
+- [Exercise 1](./exercise_1.md)
+- [Splitting your code into components](./splitting_code_to_components.md)
+- [Adding attribute type](./adding_attribute_type.md)
+- [Exercise 2](./exercise_2.md)
+- [Handling user input with forms](./handling_user_forms.md)
+- [Adding a form to our application](./adding_form_to_application.md)
+- [Observables/RxJS (data drivent development)](./observables_rxjs.md)
+- [What we will need to know from RxJS](./what_we_will_need_know_from_rx_js.md)
+- [What are modules?](./what_are_modules.md)
+- [Splitting application into modules?](./splitting_application_into_module.md)
