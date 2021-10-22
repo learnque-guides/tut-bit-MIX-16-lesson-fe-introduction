@@ -6,11 +6,12 @@
 export class DogType {
     name: string;
 }
-// or even better???
+
+// or even better ???
 
 export type DogType = {
     name: string;
 }
 ```
 
-* For now, our Dogs should probably just have names – let’s assume they are of string type, and thus let’s create a separate file in our working directory named types.ts and put this code in there.
+* It's a good practise in Angular based application to have a properly create data types.

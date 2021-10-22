@@ -12,4 +12,4 @@ Let's look into example:
 
 [https://stackblitz.com/angular/qkjbaknmgpem?file=src%2Fapp%2Fapp.component.ts](https://stackblitz.com/angular/qkjbaknmgpem?file=src%2Fapp%2Fapp.component.ts)
 
-* Now, let’s create a new component named DogForm in our application!
+* Now, let's create a new component named DogForm in our application!

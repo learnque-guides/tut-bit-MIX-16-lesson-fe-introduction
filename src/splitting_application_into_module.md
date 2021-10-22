@@ -9,7 +9,12 @@ imports array.
 ```ts
 @NgModule({
     declarations: [ AppComponent ],
-    imports: [ BrowserModule, FormsModule, HttpClientModule, NewDashboardModule ], 
+    imports: [ 
+        BrowserModule, 
+        FormsModule, 
+        HttpClientModule, 
+        NewDashboardModule 
+    ], 
     providers: [],
     bootstrap: [AppComponent]
 })
