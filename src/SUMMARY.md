@@ -4,6 +4,7 @@
 - [Lifecycle](./lifecycle.md)
 - [When to use lifecycle](./when_to_use_lifecycle.md)
 - [Adding an onInit hook to your component](./adding_on_oninit.md)
+- [HTTP client](./http_client.md)
 - [Exercise 1](./exercise_1.md)
 - [Adding attribute type](./adding_attribute_type.md)
 - [Splitting your code into components](./splitting_code_to_components.md)
