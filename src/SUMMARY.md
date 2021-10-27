@@ -14,6 +14,3 @@
 - [Observables/RxJS (data drivent development)](./observables_rxjs.md)
 - [What we will need to know from RxJS](./what_we_will_need_know_from_rx_js.md)
 - [Exercise 4](./exercise_4.md)
-- [What are modules?](./what_are_modules.md)
-- [Splitting application into modules?](./splitting_application_into_module.md)
-- [Exercise 5](./exercise_5.md)
